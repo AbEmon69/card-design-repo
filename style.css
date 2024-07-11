@@ -1,0 +1,40 @@
+.card1{
+    background-color: white;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.card1 h3{
+    color: rgb(210, 139, 6);
+}
+.text-section{
+    padding: 20px;
+}
+.card1 img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 100px;
+}
+ button  {
+   padding: 13px;
+   border: 1px solid #d45a03;
+   border-radius: 8px;
+   background-color: white;
+}
+button:hover{
+background-color: #e70983e0;
+border: none;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    font-weight: 600px;
+}
